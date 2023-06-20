@@ -18,4 +18,5 @@ use (
 	./ch5/findlinks1
 	./ch5/findlinks2
 	./ch5/outline
+	./ch5/toposort
 )
