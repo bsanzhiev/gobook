@@ -1,0 +1,21 @@
+go 1.20
+
+use (
+	./ch1/fetch
+	./ch2/echo4
+	./ch3/mandelbrot
+	./ch3/surface
+	./ch4/append
+	./ch4/charcount
+	./ch4/comics_412
+	./ch4/dedup
+	./ch4/github
+	./ch4/github_crud_411
+	./ch4/issues
+	./ch4/issues410
+	./ch4/omdb
+	./ch4/treesort
+	./ch5/findlinks1
+	./ch5/findlinks2
+	./ch5/outline
+)
