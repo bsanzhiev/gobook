@@ -22,5 +22,8 @@ use (
 	./ch5/toposort
 	./ch6/intset
 	./ch7/http1
+	./ch7/http2
+	./ch7/http3
 	./ch7/sorting
+	./ch7/xmlselect
 )
