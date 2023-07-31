@@ -26,4 +26,12 @@ use (
 	./ch7/http3
 	./ch7/sorting
 	./ch7/xmlselect
+	./ch8/clock1
+	./ch8/clock2
+	./ch8/netcat1
+	./ch8/netcat2
+	./ch8/netcat3
+	./ch8/reverb1
+	./ch8/reverb2
+	./generics/tut
 )
