@@ -18,6 +18,7 @@ use (
 	./ch4/treesort
 	./ch5/findlinks1
 	./ch5/findlinks2
+	./ch5/links
 	./ch5/outline
 	./ch5/toposort
 	./ch6/intset
@@ -28,6 +29,10 @@ use (
 	./ch7/xmlselect
 	./ch8/clock1
 	./ch8/clock2
+	./ch8/crawl
+	./ch8/du1
+	./ch8/du2
+	./ch8/du3
 	./ch8/netcat1
 	./ch8/netcat2
 	./ch8/netcat3

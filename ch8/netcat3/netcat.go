@@ -16,7 +16,7 @@ func main() {
 	go func() {
 		io.Copy(os.Stdout, conn)
 		log.Println("done")
-		done <- struct{}{} // signal to main gorutine
+		done <- struct{}{} // signal to main goroutine
 	}()
 	mustCopy(conn, os.Stdin)
 	conn.Close()
