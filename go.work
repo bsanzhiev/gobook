@@ -3,6 +3,8 @@ go 1.20
 use (
 	./calhoun/taskman
 	./ch1/fetch
+	./ch11/word1
+	./ch11/word2
 	./ch2/echo4
 	./ch3/mandelbrot
 	./ch3/surface
